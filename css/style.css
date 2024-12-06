@@ -17,7 +17,7 @@ body {
     border-radius: 12px 12px 0px 0px;
 }
 
-/* Header title */
+/* Header h1 */
 #header h1 {
     position: absolute;
     left: 420px;
@@ -27,12 +27,12 @@ body {
     color: #E35335;
 }
 
-/* Logo styling */
+/* header a#logo1 img */
 #header a#logo1 img {
-    position: relative;
-    top: -34px;
-    right: 10px;
-    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
 }
 
 /* Toplink styling in the header */
